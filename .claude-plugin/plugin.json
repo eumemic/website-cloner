@@ -1,0 +1,10 @@
+{
+  "name": "website-cloner",
+  "version": "1.0.0",
+  "description": "Clone websites by reverse-engineering them into specs using AI-powered browser exploration",
+  "author": {
+    "name": "eumemic"
+  },
+  "license": "MIT",
+  "keywords": ["clone", "reverse-engineer", "specs", "browser", "discovery"]
+}
